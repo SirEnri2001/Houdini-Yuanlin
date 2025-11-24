@@ -50,3 +50,7 @@ Week1: Produce some basic assets, e.g. small pavilion, bridges, willow, rocks. F
 Week2: Refine the buildings and the plants with more styles and parameters
 Week3: Try out more ways to put altogether, as well as try rendering
 Week4: Finish up
+
+## Progress Update (11/24)
+
+![](./img/f1.png)
