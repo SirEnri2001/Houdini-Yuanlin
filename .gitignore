@@ -1,1 +1,3 @@
-*.hipnc
+backup/*
+geo/*
+hda/backup*
