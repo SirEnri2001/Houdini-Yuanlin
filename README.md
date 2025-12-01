@@ -1,8 +1,21 @@
-# Design Doc - Procedural modeling: Yuanlin
+# Procedural modeling: Yuanlin
+
+Author: Henry Han, Nico Kong
+
+## Showcase Demo
+
+![](./img/demo1.png)
+
+![](./img/demo2.png)
+
+![](./img/demo3.png)
+
 
 ## Introduction
 
 Yuanlin (Chinese garden) is an important art form popular among many officials, poets and businessman in ancient China, and now they are open to public visiting. After visiting many gardens in China and learning Houdini in procedural modeling, I find it really interesting to procedurally generate Chinese gardens since it is asymetric structure and involving with a lot of nature elements. 
+
+
 
 ## Goal
 
