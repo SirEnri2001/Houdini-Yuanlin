@@ -10,6 +10,39 @@ Author: Henry Han, Nico Kong
 
 ![](./img/demo3.png)
 
+## Terrain & Lakes
+
+![](./img/1.png)
+
+## Paths
+
+## Buildings
+
+
+
+## Plants
+
+**Bamboo 👇**
+
+![](./img/bamboo1.png)
+
+![](./img/bamboo2.png)
+
+**Willow 👇**
+
+![](./img/willow1.png)
+
+![](./img/willow2.png)
+
+## Rocks
+
+![](./img/rocks.png)
+
+![](./img/rocks2.png)
+
+## Walls & Entrance
+
+![](./img/wall_entrance.png)
 
 ## Introduction
 
