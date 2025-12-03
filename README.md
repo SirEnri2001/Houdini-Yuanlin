@@ -16,9 +16,11 @@ Author: Henry Han, Nico Kong
 
 ## Paths
 
+![](./img/path.png)
+
 ## Buildings
 
-
+![](./img/building.png)
 
 ## Plants
 
@@ -39,6 +41,10 @@ Author: Henry Han, Nico Kong
 ![](./img/rocks.png)
 
 ![](./img/rocks2.png)
+
+## Fish
+
+![](./img/fish.png)
 
 ## Walls & Entrance
 
